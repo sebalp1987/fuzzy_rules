@@ -62,5 +62,5 @@ Please report any bugs and enhancement ideas to:
 
 ## License
 
-Z-FINDER is licensed under the terms of Zurich Insurance Lta, Spain. See the [LICENSE.md](LICENSE.md) file for details
+FUZZY-RULES is licensed under the terms of Zurich Insurance Lta, Spain. See the [LICENSE.md](LICENSE.md) file for details
 
